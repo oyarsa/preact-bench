@@ -33,3 +33,12 @@ Each context contains a `steps` array. Each step has:
 
 Because each item contains two contexts, 10 items per domain corresponds to 20
 monitor-evaluation contexts per domain.
+
+## License
+
+PreAct-Bench is licensed under the Creative Commons Attribution-ShareAlike
+4.0 International License. See `LICENSE`.
+
+Copyright (c) 2026 Hainiu Xu, Italo Luis da Silva, Jiangnan Ye, Yuhao Wang,
+Wei Liu, Linyi Yang, Jonathan Richard Schwarz, Nicola Paoletti, Yulan He,
+Hanqi Yan.
